@@ -1,0 +1,9 @@
+{
+  "material": "RM-10045",
+  "plant": "1000",
+  "required_date": "2026-09-25",
+  "required_quantity": 15000,
+  "current_po": "4500012345",
+  "current_supplier": "SUP-A",
+  "new_confirmed_date": "2026-10-04"
+}
